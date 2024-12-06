@@ -5,6 +5,9 @@
   
   <img src="./img/gamestart.png" width=50%>
 
+Overview:   
+  <img src="./img/overview.png" width=80%>
+
 ---
   <img src="./img/1.png" width=60%>
   <img src="./img/2.png" width=60%>
@@ -17,5 +20,4 @@
   <img src="./img/9.png" width=60%>
 
   
-  <img src="./img/overview.png" width=80%>
 </div>
