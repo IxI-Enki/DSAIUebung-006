@@ -5,10 +5,12 @@
   
   <img src="./img/gamestart.png" width=50%>
 
-Overview:   
+<p align="left"> Overview : </p>
+
   <img src="./img/overview.png" width=80%>
 
 ---
+<p align="left"> Details : </p>
   <img src="./img/1.png" width=60%>
   <img src="./img/2.png" width=60%>
   <img src="./img/3.png" width=60%>
