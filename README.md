@@ -1,2 +1,6 @@
-# DSAIUebung-006
-Fizz Buzz
+###### <p align="center"> DSAIUebung-006 </p>
+# <p align="center"> Fizz Buzz </p>
+
+<div align="center">
+  <img src="./img/overview.png" width=80%>
+</div>
