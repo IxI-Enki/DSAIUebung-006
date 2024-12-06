@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img src="./img/gamestart.png" width=80%>
+  <img src="./img/gamestart.png" width=50%>
   
   <img src="./img/overview.png" width=80%>
 </div>
